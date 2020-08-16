@@ -1,0 +1,2 @@
+void rentar();
+void reporteRentas();
