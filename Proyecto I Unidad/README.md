@@ -32,4 +32,5 @@ Ingrese un numero del menu para seleccionar un juego:
 ### 4) Entregables
 
 1) Link de github.com ***10%
-2) Video Youtube demostrando la funcionalidad de su sistema ***7%
+2) Video Youtube demostrando la funcionalidad de su sistema y el codigo que implemento para el menu ***7%
+
