@@ -1,13 +1,11 @@
 # Descargue el codigo del Proyecto de la Unidad I
 
-## 1) El objetivo es crear un menu en la funcion main para asi poder jugar el juego StartShip o Snake
+### 1) El objetivo es crear un menu en la funcion main para asi poder jugar el juego StartShip o Snake
 
 El menu debe contener estas opciones:
 
 
-----------
 BIENVENIDO
-----------
 
 Seleccione un juego
 
