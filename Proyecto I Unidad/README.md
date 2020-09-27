@@ -5,7 +5,7 @@
 El menu debe contener estas opciones:
 
 
-
+```sh
 
 MENU DE JUEGOS
 
@@ -17,7 +17,7 @@ Seleccione un juego
 
 Ingrese un numero del menu para seleccionar un juego:
 
-
+```
 
 
 ### 2) Para poder compilar el programa ejecute el comando
