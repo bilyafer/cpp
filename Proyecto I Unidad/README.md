@@ -1,6 +1,6 @@
 # Descargue el codigo del Proyecto de la Unidad I
 
-### 1) El objetivo es crear un menu en la funcion main para asi poder jugar el juego StartShip o Snake
+### 1) El objetivo es crear un menu en la funcion main para asi poder jugar el juego StarShip o Snake
 
 El menu debe contener estas opciones:
 
@@ -13,7 +13,7 @@ MENU DE JUEGOS
 
 Seleccione un juego
 
-1 - StartShip
+1 - StarShip
 
 2 - Snake
 
@@ -28,6 +28,7 @@ Ingrese un numero del menu para seleccionar un juego:
 
 ### 3) Vea este video para mas detalle en esta asignacion
 
+https://www.youtube.com/watch?v=hOGHh8dnbjg
 
 ### 4) Entregables
 
