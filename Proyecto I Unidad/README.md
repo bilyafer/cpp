@@ -4,10 +4,10 @@
 
 El menu debe contener estas opciones:
 
-`
-**********
+
+==========
 BIENVENIDO
-**********
+==========
 
 Seleccione un juego
 
@@ -15,17 +15,17 @@ Seleccione un juego
 2 - Snake
 
 Ingrese un numero del menu para seleccionar un juego:
-`
 
-# Para poder compilar el programa ejecute el comando
+
+### Para poder compilar el programa ejecute el comando
 
 `./compilar.bat`
 
-# Vea este video para mas detalle en esta asignacion
+### Vea este video para mas detalle en esta asignacion
 
 ``
 
-# Entregables
+### Entregables
 
 1) Link de github.com ***10%
 2) Video Youtube demostrando la funcionalidad de su sistema ***7%
