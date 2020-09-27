@@ -7,7 +7,9 @@ El menu debe contener estas opciones:
 
 ```sh
 
+**************
 MENU DE JUEGOS
+**************
 
 Seleccione un juego
 
