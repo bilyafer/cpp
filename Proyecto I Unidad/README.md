@@ -4,6 +4,7 @@
 
 El menu debe contener estas opciones:
 
+`
 **********
 BIENVENIDO
 **********
@@ -14,10 +15,11 @@ Seleccione un juego
 2 - Snake
 
 Ingrese un numero del menu para seleccionar un juego:
+`
 
 # Para poder compilar el programa ejecute el comando
 
-`./compilar.bat
+`./compilar.bat`
 
 # Vea este video para mas detalle en esta asignacion
 
