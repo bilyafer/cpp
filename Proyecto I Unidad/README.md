@@ -5,7 +5,9 @@
 El menu debe contener estas opciones:
 
 
-BIENVENIDO
+
+
+MENU DE JUEGOS
 
 Seleccione un juego
 
@@ -14,6 +16,8 @@ Seleccione un juego
 2 - Snake
 
 Ingrese un numero del menu para seleccionar un juego:
+
+
 
 
 ### 2) Para poder compilar el programa ejecute el comando
